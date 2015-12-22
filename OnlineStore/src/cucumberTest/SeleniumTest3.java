@@ -31,6 +31,8 @@ public class SeleniumTest3 {
 	        System.out.println("Launched and Navigated through Anthem Portal successfully");
 	        System.out.println("Launched and Navigated through Anthem Portal successfully");
 	        System.out.println("Launched and Navigated through Anthem Portal successfully");
+	        System.out.println("Launched and Navigated through Anthem Portal successfully");
+	        System.out.println("Launched and Navigated through Anthem Portal successfully");
 	        
 	        }
 }
